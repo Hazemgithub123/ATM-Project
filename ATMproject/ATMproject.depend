@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1732217385 source:c:\users\lenovo\desktop\assignment1\atmproject\main.c
+	<stdio.h>
+	<stdbool.h>
+	"User.h"
+	"Transaction.h"
+
+1732217169 c:\users\lenovo\desktop\assignment1\atmproject\user.h
+	<stdbool.h>
+
+1732217385 c:\users\lenovo\desktop\assignment1\atmproject\transaction.h
+
+1732217385 source:c:\users\lenovo\desktop\assignment1\atmproject\transaction.c
+	"Transaction.h"
+	<stdio.h>
+	<string.h>
+
+1732217169 source:c:\users\lenovo\desktop\assignment1\atmproject\user.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"User.h"
+
+1732150037 source:c:\users\lenovo\desktop\assignment1\atmproject\util.c
+	<stdio.h>
+	<string.h>
+
